@@ -38,5 +38,9 @@ const styles = StyleSheet.create({
 
 //tets merge feature/functionPlus
 //Test Branch Feature/functionPlus
+<<<<<<< HEAD
 //Success Merge to master
 //!master
+=======
+//*dev
+>>>>>>> develop
