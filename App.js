@@ -8,7 +8,7 @@ export default function App() {
   let isTest = true;
   let content;
   if (!isTest) {
-    //ontent = <Calculator />
+    //content = <Calculator />
   } else {
     content = (
       <View style={styles.main}>
@@ -36,3 +36,6 @@ const styles = StyleSheet.create({
   },
 });
 
+//tets merge feature/functionPlus
+//Test Branch Feature/functionPlus
+//Success Merge to master
